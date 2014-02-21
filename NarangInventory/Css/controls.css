@@ -1,0 +1,19 @@
+﻿
+.div-column
+{
+	width: 35%;
+	float: left;
+	padding-bottom:10px;
+}
+
+.div-column input
+{
+	padding:5px;
+	border:1px solid #999;
+	outline:none;
+	}
+.div-full
+{
+	width: 100%;
+	float:left;
+}
